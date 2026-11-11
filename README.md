@@ -37,6 +37,10 @@ music-study/
 - 음악 이론 검토: [references/major-minor-composer/music-theory-audit.md](references/major-minor-composer/music-theory-audit.md)
 - UI·기술 구조: [references/major-minor-composer/interaction-architecture.md](references/major-minor-composer/interaction-architecture.md)
 - 화면 캡처 기반 UI·UX 분석: [references/major-minor-composer/visual-ui-analysis.md](references/major-minor-composer/visual-ui-analysis.md)
+- 심층 감사: [references/major-minor-composer/deep-audit.md](references/major-minor-composer/deep-audit.md)
+- 리듬·화음·형식 엔진: [references/major-minor-composer/rhythm-harmony-form-engine.md](references/major-minor-composer/rhythm-harmony-form-engine.md)
+- 2022 개정 교육과정 정합성: [references/major-minor-composer/curriculum-alignment-2022.md](references/major-minor-composer/curriculum-alignment-2022.md)
+- 개선 백로그: [references/major-minor-composer/improvement-backlog.md](references/major-minor-composer/improvement-backlog.md)
 
 ## 앞으로의 분석 축
 
