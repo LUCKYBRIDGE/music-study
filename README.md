@@ -36,6 +36,7 @@ music-study/
 - 분석 문서: [references/major-minor-composer/README.md](references/major-minor-composer/README.md)
 - 음악 이론 검토: [references/major-minor-composer/music-theory-audit.md](references/major-minor-composer/music-theory-audit.md)
 - UI·기술 구조: [references/major-minor-composer/interaction-architecture.md](references/major-minor-composer/interaction-architecture.md)
+- 화면 캡처 기반 UI·UX 분석: [references/major-minor-composer/visual-ui-analysis.md](references/major-minor-composer/visual-ui-analysis.md)
 
 ## 앞으로의 분석 축
 
