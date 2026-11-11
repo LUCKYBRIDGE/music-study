@@ -516,3 +516,16 @@ C화음에서 D는 화음 구성음이 아니지만, 약박에서 C와 E를 연�
 | 서버 유무 | 중간 | 정적 페이지 특성과 안내 기반 추정 |
 
 분석에서는 확인된 내용과 추정 내용을 의도적으로 분리한다.
+
+
+---
+
+## 추가 심층 문서
+
+- [deep-audit.md](deep-audit.md) — 사용자 과업, 상태 전이, 인지부하, 피드백, 접근성까지 포함한 종합 심층 감사
+- [rhythm-harmony-form-engine.md](rhythm-harmony-form-engine.md) — onset/sustain 리듬 모델, 화음 판정, 종지, a/a′ 형식 판정 엔진 역분석
+- [curriculum-alignment-2022.md](curriculum-alignment-2022.md) — 2022 개정 음악과 5~6학년 성취기준·음악 요소 정합성
+- [improvement-backlog.md](improvement-backlog.md) — P0~P3 개선 우선순위와 영향도/난이도
+- [visual-ui-analysis.md](visual-ui-analysis.md) — 제공 화면 캡처 기반 시각 구조·색상·상태 분석
+- [music-theory-audit.md](music-theory-audit.md) — 장단조·으뜸음·나란한조·화음 설명 정확성 검토
+- [interaction-architecture.md](interaction-architecture.md) — UI 컴포넌트·상태 모델·저장·오디오·오선보 연결 구조
